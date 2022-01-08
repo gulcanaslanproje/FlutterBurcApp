@@ -1,3 +1,4 @@
 # flutter_burc_rehberi
 
-Burç Rehberi Uygulaması
+The project was developed for educational purposes.
+
